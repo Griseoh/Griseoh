@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devanshu 
-- 👀 I’m interested in Web-Dev and Game-Dev
+- 👀 I’m interested in Web-Dev, Game-Dev and Core Electronics
 - 🌱 I’m currently learning CSS
 - 📫 How to reach me -> Phone no : 8545846778 , Mail: gaur.devanshu.2112@gmail.com
 
