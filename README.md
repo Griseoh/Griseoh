@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devanshu 
-- 👀 I’m interested in Web-Dev, Game-Dev and Core Electronics
-- 🌱 I’m currently learning CSS and Arduino
+- 👀 I’m interested in Core Electronics and VLSI
+- 🌱 I’m currently learning Verilog and Perl
 - 📫 How to reach me -> Phone no : 8545846778 , Mail: gaur.devanshu.2112@gmail.com
 
 <!---
