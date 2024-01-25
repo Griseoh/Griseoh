@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devanshu 
 - 👀 I’m interested in Core Electronics and VLSI
-- 🌱 I’m currently learning Verilog and Perl
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me -> Phone no : 8545846778 , Mail: gaur.devanshu.2112@gmail.com
 
 <!---
